@@ -55,7 +55,7 @@ Build a NFT Site
 - 
 ### Continued development
 
-I definitely want to learn more about Semantic HTML, especially for accessibility issues.
+I definitely want to learn more about Semantic HTML, especially for accessibility issues. I also want to work on this site being more mobile-friendly in the future.
 
 ## Author
 
