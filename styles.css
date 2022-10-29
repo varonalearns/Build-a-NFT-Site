@@ -13,6 +13,18 @@ body {
     line-height: 23px;
 }
 
+section {
+    padding: 45px 0;
+}
+a {
+    color: #ef5839;
+    text-decoration: underline dotted;
+}
+
+a:hover, a:active {
+    color: #d4b44c;
+}
+
 button {
     padding: 10px 19px;
     border: none;
@@ -27,9 +39,14 @@ button:active {
     background-color: #f3e885;
 }
 
+
 .container {
     width: 620px;
     margin: 0 auto;
+}
+
+.btn-container {
+    margin: 1rem 0;
 }
 
 .btn-dark {
@@ -45,10 +62,11 @@ button:active {
     background-color: whitesmoke;
 }
 
-/* Specific */
+/* header */
 header {
     background-color: #5f29a3;
     padding: 45px 0px;
+    line-height: 40px;
 }
 
 h1 {
@@ -61,21 +79,9 @@ h3 {
     color: #d0aaff;
 }
 
-section {
-    padding: 45px 0;
-}
-
+/* section-one */
 .sneakers {
     width: 100%;
-}
-
-a {
-    color: #ef5839;
-    text-decoration: underline dotted;
-}
-
-a:hover, a:active {
-    color: #d4b44c;
 }
 
 /* section-two */
